@@ -142,3 +142,6 @@ footer a{color:var(--ink)}
 footer a{text-decoration:underline}
 dd,.hint,.legal p{overflow-wrap:anywhere}
 img{max-width:100%;height:auto}
+.two.even{grid-template-columns:1fr 1fr}
+@media (max-width:860px){.two.even{grid-template-columns:1fr}}
+.pill{white-space:nowrap}
