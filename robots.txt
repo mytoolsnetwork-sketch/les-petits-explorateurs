@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://les-petits-explorateurs.de/sitemap.xml
+Sitemap: https://www.les-petits-explorateurs.de/sitemap.xml
